@@ -1,8 +1,11 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Django Blog Mini Project
 
-Welcome Carly07,
+A simple blog app written using Django. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+[![Build Status](https://travis-ci.com/Carly07/django-blog.svg?branch=master)](https://travis-ci.com/Carly07/django-blog)
+
+
+
 
 ## Gitpod Reminders
 
